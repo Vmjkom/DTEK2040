@@ -1,0 +1,20 @@
+a:hover {
+    color: hotpink;
+  }
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+  ul.jotain {
+    background: #3399ff;
+    padding: 20px;
+  }
+  li.eka {
+    margin: 2em;
+    color:darkred
+  }
+
+  #Sininen_tausta {
+      background-color: blue;
+  }
